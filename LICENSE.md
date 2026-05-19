@@ -1,4 +1,4 @@
-# 
+# custom okx trading bot executor is the best okx trading bot executor with cross-margin and price-monitoring. Safe, reliable, and optimized for CEX, DEX, and algorithmic trading
 
 
 
